@@ -25,12 +25,13 @@ SECRET_KEY = 'ev*8%*u_)v%=yk_*5p5w$^od-^q6p1uxbr1+0z)5oh)m3fe!6k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [u'kalimodo.pythonanywhere.com']
+ALLOWED_HOSTS = [u'kalimodo.pythonanywhere.com', u'127.0.0.1']
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'topwords.apps.TopwordsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -105,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
