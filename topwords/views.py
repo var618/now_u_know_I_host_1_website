@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup as BS
 def index(request):
     context = {'title':'topwords'.upper(),
                'header':'lot is not ioT'.capitalize(),
-               'messages': ['pig','rabbit','nose','donkey','mule']}
+               'messages': ['pig', 'rabbit', 'nose', 'donkey', 'mule']}
     return render(request=request, template_name='topwords/layout.html', context=context)
 
 
