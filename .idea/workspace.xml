@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f05d1ad-b001-495c-9b02-f9d45a3a0639" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/topwords/templates/topwords/layout.html" afterPath="$PROJECT_DIR$/topwords/templates/topwords/layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/topwords/templates/topwords/save.html" afterPath="$PROJECT_DIR$/topwords/templates/topwords/save.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/topwords/views.py" afterPath="$PROJECT_DIR$/topwords/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +17,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/topwords/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
@@ -52,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="layout.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/topwords/templates/topwords/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <state relative-caret-position="657">
+              <caret line="78" column="63" lean-forward="false" selection-start-line="78" selection-start-column="63" selection-end-line="78" selection-end-column="63" />
               <folding>
                 <element signature="e#3076#3082#0" expanded="true" />
               </folding>
@@ -143,8 +140,8 @@
         <option value="$PROJECT_DIR$/topwords/templates/topwords/index.html" />
         <option value="$PROJECT_DIR$/topwords/views.py" />
         <option value="$PROJECT_DIR$/topwords/templates/topwords/save.html" />
-        <option value="$PROJECT_DIR$/topwords/templates/topwords/layout.html" />
         <option value="$PROJECT_DIR$/lot/settings.py" />
+        <option value="$PROJECT_DIR$/topwords/templates/topwords/layout.html" />
       </list>
     </option>
   </component>
@@ -530,16 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topwords/templates/topwords/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding>
-            <element signature="e#3076#3082#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/topwords/templates/topwords/save.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -554,6 +541,16 @@
           <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topwords/templates/topwords/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="78" column="63" lean-forward="false" selection-start-line="78" selection-start-column="63" selection-end-line="78" selection-end-column="63" />
+          <folding>
+            <element signature="e#3076#3082#0" expanded="true" />
           </folding>
         </state>
       </provider>
