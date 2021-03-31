@@ -111,7 +111,7 @@ jupyter-console==5.0.0
 jupyter-core==4.3.0
 keepalive==0.5
 Logbook==1.0.0
-lxml==3.6.0
+lxml==4.6.3
 Mako==1.0.4
 marisa-trie==0.7.2
 Markdown==2.6.6
