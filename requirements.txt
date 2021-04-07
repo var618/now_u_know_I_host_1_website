@@ -12,7 +12,7 @@ beautifulsoup4==4.4.1
 bleach==1.4.3
 blinker==1.4
 boto==2.41.0
-bottle==0.12.9
+bottle==0.12.19
 Bottleneck==1.1.0
 bottlenose==0.6.4
 BTrees==4.3.1
