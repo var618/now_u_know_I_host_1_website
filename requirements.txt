@@ -31,7 +31,7 @@ CoolProp==6.0.0
 coverage==4.1
 cryptography==1.4
 cssselect==0.9.2
-cvxopt==1.1.8
+cvxopt==1.2.7
 cycler==0.10.0
 Cython==0.24
 dask==0.10.2
